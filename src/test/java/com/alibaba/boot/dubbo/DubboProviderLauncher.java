@@ -9,7 +9,6 @@ import com.alibaba.boot.dubbo.annotation.EnableDubboConfiguration;
  * spring boot默认使用tomcat8，所以需要jdk7以上版本
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @SpringBootApplication

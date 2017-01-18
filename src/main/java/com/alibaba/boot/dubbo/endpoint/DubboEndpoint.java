@@ -67,7 +67,7 @@ public class DubboEndpoint extends AbstractEndpoint<Map<String, Object>> {
   }
 
   public List<String> getAuthors() {
-    return Collections.singletonList("jackxiong <xionghui.xh@alibaba-inc.com>");
+    return Collections.singletonList("jackxiong");
   }
 
   public String getDocs() {
