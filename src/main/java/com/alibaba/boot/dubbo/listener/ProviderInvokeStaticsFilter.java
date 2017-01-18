@@ -14,7 +14,6 @@ import com.alibaba.dubbo.rpc.RpcException;
  * provider invoke statics filter
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Activate(group = Constants.PROVIDER)

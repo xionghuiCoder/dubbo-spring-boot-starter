@@ -21,7 +21,6 @@ import com.alibaba.dubbo.registry.RegistryFactory;
  * dubbo operation endpoint
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @RestController

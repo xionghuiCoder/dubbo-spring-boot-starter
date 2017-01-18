@@ -29,7 +29,6 @@ import com.alibaba.dubbo.config.spring.ReferenceBean;
  * properties.
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Configuration

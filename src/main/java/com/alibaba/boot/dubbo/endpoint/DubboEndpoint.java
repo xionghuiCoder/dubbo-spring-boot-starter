@@ -24,7 +24,6 @@ import com.alibaba.boot.dubbo.metrics.DubboMetrics;
  * dubbo endpoint for provider and subscriber
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Component

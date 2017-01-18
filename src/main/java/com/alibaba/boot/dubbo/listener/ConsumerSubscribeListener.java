@@ -17,7 +17,6 @@ import com.alibaba.dubbo.rpc.listener.InvokerListenerAdapter;
  * dubbo client invoker listener
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Activate

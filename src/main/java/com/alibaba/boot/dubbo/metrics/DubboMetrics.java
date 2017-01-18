@@ -17,7 +17,6 @@ import com.alibaba.boot.dubbo.listener.StaticsFilterHelper;
  * dubbo metrics
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Component

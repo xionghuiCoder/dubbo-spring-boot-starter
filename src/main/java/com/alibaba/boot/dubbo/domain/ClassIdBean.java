@@ -6,7 +6,6 @@ import java.io.Serializable;
  * 标示唯一一个class
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 public class ClassIdBean implements Serializable {

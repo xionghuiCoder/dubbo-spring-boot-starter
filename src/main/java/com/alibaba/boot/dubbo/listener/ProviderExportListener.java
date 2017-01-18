@@ -16,7 +16,6 @@ import com.alibaba.dubbo.rpc.listener.ExporterListenerAdapter;
  * provider export listener
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Activate

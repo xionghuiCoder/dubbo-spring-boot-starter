@@ -13,7 +13,6 @@ import com.alibaba.dubbo.rpc.service.EchoService;
  * dubbo health indicator
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Component

@@ -18,7 +18,6 @@ import com.alibaba.dubbo.config.RegistryConfig;
  * Dubbo common configuration
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Configuration

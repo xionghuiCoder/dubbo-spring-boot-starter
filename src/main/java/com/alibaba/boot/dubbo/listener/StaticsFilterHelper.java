@@ -11,7 +11,6 @@ import com.alibaba.dubbo.rpc.Filter;
  * statics filter
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 public abstract class StaticsFilterHelper implements Filter {

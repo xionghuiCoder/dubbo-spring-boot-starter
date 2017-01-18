@@ -10,7 +10,6 @@ import java.lang.annotation.Target;
  * dubbo consumer
  *
  * @author xionghui
- * @email xionghui.xh@alibaba-inc.com
  * @since 1.0.0
  */
 @Target(ElementType.FIELD)
