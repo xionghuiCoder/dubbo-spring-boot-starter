@@ -1,1 +1,0 @@
-dubbosubscribe=com.alibaba.boot.dubbo.listener.ConsumerSubscribeListener
